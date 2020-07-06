@@ -1,3 +1,4 @@
+# Analyzing-Bitcoin-Cryptocurrency-Market
 Trend analysis of Bitcoin-Cryptocurrency markets
 Project Description
 The aim of the project is to better understand the growth and impact of Bitcoin and other cryptocurrencies in the financial markets. In this ,
